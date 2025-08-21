@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Basanagouda</h1>
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
+</div>
+
 <h3 align="center">A passionate Android App developer from India</h3>
+
 
 - 🔭 I’m currently working on **Kotlin project**
 
