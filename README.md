@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Kotlin project**
 
-- 🌱 I’m currently Exploring **AI&ML, App Development**
+- 🌱 I’m currently Exploring **App Development and also KMP**
 
 - 👯 I’m looking to collaborate on **open source**
 
